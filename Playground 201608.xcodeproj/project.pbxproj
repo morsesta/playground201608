@@ -22,6 +22,7 @@
 		200B156C1D509B880004C23E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		200B156F1D509B880004C23E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		200B15711D509B880004C23E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		200B15771D509BC10004C23E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		200B15591D509B880004C23E = {
 			isa = PBXGroup;
 			children = (
+				200B15771D509BC10004C23E /* MyPlayground.playground */,
 				200B15641D509B880004C23E /* Playground 201608 */,
 				200B15631D509B880004C23E /* Products */,
 			);
